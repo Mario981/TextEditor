@@ -1,1 +1,1 @@
-# TextEditor
+The project is a text editor for english language and a single dictionary. You can put random text in it and it will show your mistakes and a chance to replace it with something correct. A dictionary shows you a different words near to your by their letters and their descriptions so if you are not sure about any word you can check and find it there.
